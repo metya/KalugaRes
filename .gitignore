@@ -1,0 +1,8 @@
+
+\.idea/
+
+data/
+
+models/__pycache__/
+
+checkpoint/
