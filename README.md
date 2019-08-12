@@ -16,7 +16,7 @@ If you want to run just tests, then do
 python main.py --test
 ```
 
-###TODO
+### TODO
 
 - Regression metrics tests
 - Gradient explosion and gradient vanishing check
